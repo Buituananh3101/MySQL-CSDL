@@ -5,6 +5,7 @@
   </Configurations>
   <Folder Name="/Solution Items/" />
   <Folder Name="/Solution Items/csdldethigiuaki/">
+    <File Path="a.sql" />
     <File Path="QuanLyKhoVatLieu.sql" />
     <File Path="QuanLyVienPhi.sql" />
     <File Path="QuanLyVuLua.sql" />
