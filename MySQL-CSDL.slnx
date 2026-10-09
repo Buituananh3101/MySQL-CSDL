@@ -3,4 +3,9 @@
     <BuildType Name="Default" />
     <Platform Name="Default" />
   </Configurations>
+  <Folder Name="/Solution Items/">
+    <File Path="QuanLyKhoVatLieu.sql" />
+    <File Path="QuanLyVienPhi.sql" />
+    <File Path="QuanLyVuLua.sql" />
+  </Folder>
 </Solution>
