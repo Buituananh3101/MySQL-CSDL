@@ -2,7 +2,7 @@
 CREATE DATABASE QuanLyKhoVatLieu;
 GO
 
-USE QuanLyKhoVatLieu;
+USE LTTQQuanLyKhoVatLieu;
 GO
 
 -- 1. Bảng MẶT HÀNG (Lưu thông tin vật tư và số lượng tồn kho)
