@@ -46,3 +46,8 @@ VALUES
     ('MH04', N'Váy liền thân', N'Lụa', 20, 300000, 550000),
     ('MH05', N'Áo thun Unisex', N'Cotton 100%', 200, 80000, 150000);
 GO
+
+USE BanHang;
+GO
+ALTER TABLE tblHang ADD Anh NVARCHAR(255);
+ALTER TABLE tblHang ADD GhiChu NVARCHAR(MAX);
